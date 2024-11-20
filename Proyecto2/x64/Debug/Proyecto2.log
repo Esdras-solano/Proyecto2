@@ -1,0 +1,42 @@
+﻿  Proyecto2.cpp
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(155,84): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(155,84): warning C4244:         with
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(155,84): warning C4244:         [
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(155,84): warning C4244:             T=int
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(155,84): warning C4244:         ]
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(155,72): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(155,72): warning C4244:         with
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(155,72): warning C4244:         [
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(155,72): warning C4244:             T=int
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(155,72): warning C4244:         ]
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(158,94): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(158,94): warning C4244:         with
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(158,94): warning C4244:         [
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(158,94): warning C4244:             T=int
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(158,94): warning C4244:         ]
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(158,82): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(158,82): warning C4244:         with
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(158,82): warning C4244:         [
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(158,82): warning C4244:             T=int
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(158,82): warning C4244:         ]
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(161,112): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(161,112): warning C4244:         with
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(161,112): warning C4244:         [
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(161,112): warning C4244:             T=int
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(161,112): warning C4244:         ]
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(161,100): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(161,100): warning C4244:         with
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(161,100): warning C4244:         [
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(161,100): warning C4244:             T=int
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(161,100): warning C4244:         ]
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(168,108): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(168,108): warning C4244:         with
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(168,108): warning C4244:         [
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(168,108): warning C4244:             T=int
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(168,108): warning C4244:         ]
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(168,96): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(168,96): warning C4244:         with
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(168,96): warning C4244:         [
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(168,96): warning C4244:             T=int
+C:\Users\esdra\Documents\progra 1\Proyecto2\Proyecto2\Proyecto2.cpp(168,96): warning C4244:         ]
+  Proyecto2.vcxproj -> C:\Users\esdra\Documents\progra 1\Proyecto2\x64\Debug\Proyecto2.exe
